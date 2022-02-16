@@ -7,3 +7,4 @@ This project is a filtering program based on the Bechdel test (Alison Bechdel).
 ### Current files:
 
 README file
+Data file

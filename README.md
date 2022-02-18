@@ -8,4 +8,8 @@ This project is a filtering program based on the Bechdel test (Alison Bechdel).
 
 README file
 
-Data file
+Project Outline file
+
+References folder
+
+Data folder

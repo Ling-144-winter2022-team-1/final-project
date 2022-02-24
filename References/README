@@ -1,2 +1,27 @@
-# This folder should contain at least 6 papers/journal articles/book chapters/reputable sources that are relevant to our project
-# "A README file in your References folder, which contains the names of the resources you’ve collected, along with a 2-3 sentence overview of each source."
+Resources:
+
+Agarwal, Apoorv, et al. "Key female characters in film have more to talk about besides men: Automating the bechdel test." Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2015.
+
+They test movie screenplays from the Internet Movie Script Database (IMSDB) with the three criteria of the Bechdel Test. They go through the steps of how they determine how a movie screenplay passes or fails the Bechdel Test and the importance of women’s roles in these movies. 
+
+Fogel, Joshua, and Kara Criscione. "Passing the Bechdel Test and the Influence of Internet and Social Media Advertising on Seeing a New Movie Release." International Journal of Arts Management 22.3 (2020). (on the pdf pages 69-79)
+
+They survey people to ask that if a movie passing the Bechdel Test is important. In the survey, they include the importance of age and race/ethnicity of these women roles. Not directly related to our project but it’s still interesting how they used the Bechdel Test for the importance of advertising a movie.
+
+
+Bouchat, Kathryn Gray. "Testing the Bechdel Test." (2019).
+
+She tests the Bechdel Test and how progressive it actually is. It compares two Netflix original movies, Kissing Booth and Sierra Burgess is a Loser, where one passes the Bechdel Test and one doesn’t versus how progressive each movie is towards feminism. 
+
+
+Lindner, Andrew M., Melissa Lindquist, and Julie Arnold. "Million dollar maybe? The effect of female presence in movies on box office returns." Sociological Inquiry 85.3 (2015): 407-428.
+
+They compare how well a movie did in the box office to whether they passed or failed the Bechdel Test.
+
+O’Meara, Jennifer. "What “The Bechdel Test” doesn’t tell us: examining women’s verbal and vocal (dis) empowerment in cinema." Feminist media studies 16.6 (2016): 1120-1123.
+
+She mentions the shortcomings of the Bechdel Test. Despite the good intentions of the test, it is the bare minimum for feminism. Even one line between two women characters that not about a man counts as passing the Bechdel Test.
+
+Lakhotia, Raghav, Chandra Kanth Nagesh, and Krishna Madgula. "Identifying Missing Component in the Bechdel Test Using Principal Component Analysis Method." arXiv preprint arXiv:1907.03702 (2019).
+
+They mention using Principal Component Analysis (PCA) to account for what the Bechdel Test is missing. Some of those components are content of the female dialogue, category/genre of the Female dialogue and the gender diversity in the cast and crew of the movie. (Too complex for me to do myself, but still interesting.)

@@ -1,4 +1,6 @@
-#  Characters with Gender set to '?':
+import pandas as pd
+
+#  Lines containing characters with gender set to '?':
 #  read_csv
 Gender_data = pd.read_csv('characters.csv', index_col ='Gender')
 

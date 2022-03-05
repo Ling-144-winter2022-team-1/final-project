@@ -4,6 +4,7 @@ Step 1: Convert files from original format to csv file.
          Problem 1.1-- The original corpus was formatted in an unusable way. The delimiter was set as '+++$+++' and was thus virtually unreadable by any program. 
         Solution 1.1-- Used TextEdit application to open original files and individually edit using the search/replace function, effectively rendering each file in a csv format.
                         --> All instances of '+++$+++' were found and replaced by commas.
+                        --> Spaces were also removed in this way to facilitate csv use in python
          Problem 1.2-- Some commas were present in the data and were interpretted as delimiters, incorrrectly breaking up data set.
         Solution 1.2-- Repeat solution 1.1 with an added step.
                        --> First find/replace all existing commas had to be found and replaced with a space, then proceed with S1.1.
@@ -26,6 +27,6 @@ Step 3: Remove unnecessary data columns from corpus.
         Solution 3.1-- ???
                        --> Ended up just uploading untrimmed csv. files to replit in hopes of editing there.
          Problem 3.2-- Figuring out how to trim data using python
-        Solution 3.2-- 
-                      --> 
+        Solution 3.2-- Using .drop function in pandas to removed unnecessary columns
+                      --> See CorpusEdit.py
       

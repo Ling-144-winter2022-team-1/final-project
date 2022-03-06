@@ -1,3 +1,4 @@
+# ChIDs assigned to female characters:
 u0
 u5
 u6
